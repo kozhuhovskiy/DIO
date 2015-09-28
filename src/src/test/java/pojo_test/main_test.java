@@ -6,13 +6,13 @@ package pojo_test;
 public class main_test {
     public static void main(String[] args) {
 
-            Person personFirst = new Person("Alex","Kiev","Lykashenko","male", 34, "Ukraine", JobTitle.ProjectManager);
-
+            /*Person personFirst = new Person("Alex","Kiev","Lykashenko","male", 34, "Ukraine", JobTitle.ProjectManager);
+                personFirst.hashCode();
 
         System.out.println(args + " *****");
         Integer i = 5000;
         System.out.println("00000---" + i.hashCode());
-
+*/
         }
 
 

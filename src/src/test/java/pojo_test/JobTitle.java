@@ -5,4 +5,5 @@ package pojo_test;
  */
 public enum JobTitle {
     Developer,QA,ProjectManager, OwnerCompany
+
 }
